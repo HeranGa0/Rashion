@@ -1,5 +1,5 @@
 # Rahsion
-Make Fashion Great Always!
+Make Fashion Great Always!  — Our team's project in hackatl 2018. Coworked with runway3207, heranga0, and kshitijvr93. 
 ## Getting Started
 
 Below is step by step process of getting the server to work!
